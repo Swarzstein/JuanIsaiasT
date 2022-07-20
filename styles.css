@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    padding: 0px 20px;
+    padding: 0px 20px ;
     width: 60vw;
     height: 100vh;
     background-color: aliceblue;
@@ -11,6 +11,8 @@ body{
 }
 
 .card{
+    color: whitesmoke;
+    font-weight: bold;
     height: fit-content;
     width: 60%;
     background-color: purple;
@@ -19,10 +21,14 @@ body{
     border-radius: 20px ;
 }
 #submit{
-    margin: 0px auto;
+    margin-left: 41%;
+    width: 20%;
+
 }
 textarea{
     height: 100px;
     width: 100%;
 }
-  
+input{
+    margin: 7px 0px;
+}
