@@ -1,0 +1,28 @@
+html{
+    background-color: blue;
+}
+
+body{
+    padding: 0px 20px;
+    width: 60vw;
+    height: 100vh;
+    background-color: aliceblue;
+    margin: 0px auto;
+}
+
+.card{
+    height: fit-content;
+    width: 60%;
+    background-color: purple;
+    padding: 30px;
+    margin: 0px auto;
+    border-radius: 20px ;
+}
+#submit{
+    margin: 0px auto;
+}
+textarea{
+    height: 100px;
+    width: 100%;
+}
+  
